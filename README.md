@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Eduardo Muniz
 - I live in :brazil:, MG :sunglasses::cheese:
-- I'm looking for my first job as a developer :computer:
+- i love flutter :computer:
 - I have been learnig more about Flutter on Dart :sparkling_heart:
 
 ## Connect with me:
